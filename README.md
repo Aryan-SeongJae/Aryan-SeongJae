@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Aryan Jain, a sophomore at University of British Columbia in Vancouver, Canada. I am interested in data science and analytics. I also am interested in making some fun short games and in UI/UX design. I want to do research in Operating Systems.
 <!--
 **Aryan958-prod/Aryan958-prod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
